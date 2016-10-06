@@ -1,3 +1,5 @@
+===   digitamize   ===
+
 git clone the repo
 
 Run following commands:

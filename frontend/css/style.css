@@ -1,0 +1,85 @@
+body {
+    font-size: 22px;
+    color: #95a4ac;
+    line-height: 30px;
+}
+
+.border3 {
+/*    border-style: solid;
+    border-width: 3px;  
+*/    /*margin: 5px;*/
+}
+.jumbo {
+    font-size: 58px;
+    margin-bottom: 70px;
+    color: #65696a;
+}
+
+.block1 {
+    padding: 100px 10px;
+    margin-bottom: 20px;
+}
+
+.block2 {
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+.block2 h2 {
+    color: #75797a;
+    margin-bottom: 50px;
+    font-size: 36px;
+}
+
+.logo {
+    width: 120px;
+    margin-bottom: 100px;
+}
+
+.Vpadding100 {
+    padding: 100px 30px;
+}
+
+.Vmargin30 {
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.smhmargin15 {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.smbmargin10 {
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .block3 {
+        margin: -8px auto -28px auto;
+        border-radius: 25px;
+        padding: 5px  60px 36px 60px;
+        z-index: 5;
+        background: white;
+        position: relative;
+        width: 48%;
+    }    
+
+    .Lpadding0 {
+        padding-left: 0;
+    }
+
+    .Rpadding0 {
+        padding-right: 0;
+    }
+
+    .smhmargin15 {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    .smbmargin10 {
+        margin-bottom: 0px;
+    }
+}
